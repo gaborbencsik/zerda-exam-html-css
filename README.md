@@ -82,6 +82,8 @@ Add your answer to this readme file, commit your changes to this repository.
 ```
 #### Your answer: [2p]
 
+The distance between the top-left corner of the document body and the yellow box is 40px form the top and 40px form the left side. This is because the blue box is positioned absolute 20px-20px from the top and the left side and the yellow box is positioned the same inside the blue box.
+
 
 ## 3. Explain concepts (~15 minutes) [4 points]
 Add your answer to this readme file, commit your changes to this repository.
