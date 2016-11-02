@@ -100,4 +100,5 @@ Inline block is similar to inline (so they do not break the flow) but they accep
 ### What is the difference between a `<section>` and an `<article>` element? Name one good example of using an `<article>`.
 #### Your answer: [2p]
 
-There is no difference in operation between `<section>` and `<article>`. The real difference is in semantics. Section is for grouping different parts of the content, while article contains standalone pieces of content e.g. blogposts or news article that could be published by its own. So for example one single blogpost can be included into an `<article>` tag.
+There is no difference in operation between `<section>` and `<article>`. The real difference is in semantics. Section is for grouping different parts of the content, while article contains standalone pieces of content e.g. blogposts or news article that could be published by its own.
+So for example one single blogpost can be included into an `<article>` tag.
