@@ -92,6 +92,10 @@ Add your answer to this readme file, commit your changes to this repository.
 ### Explain the difference between `display: block` and `display: inline` in CSS! What is `display: inline-block`?
 #### Your answer: [2p]
 
+Block elements take up as much horizontal space as they can and do not let any other element next to them by default. While inline elements do not break the flow. It is not possible to set height and width values for inline elements.
+
+Inline block is similar to inline (so they do not break the flow) but they accept height and width values.
+
 
 ### What is the difference between a `<section>` and an `<article>` element? Name one good example of using an `<article>`.
 #### Your answer: [2p]
